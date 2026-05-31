@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Vineela
 
-<!--
-**vineela26-create/vineela26-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Tech IT Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack Web Developer
+
+🤖 Learning AI, RAG & Modern Web Technologies
+
+🏆 Solved 366+ LeetCode Problems
+
+---
+
+## 🚀 Tech Stack
+
+- Java
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Python
+- Git & GitHub
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 AI Coding Coach
+- RAG Powered
+- Code Analysis
+- Optimization Suggestions
+
+### 📱 QR Attendance App
+- QR Verification
+- Fast Attendance Tracking
+
+### 🎉 Event Management Platform
+- Event Registration
+- QR Check-In
+- UPI Integration
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/vineela26-create
