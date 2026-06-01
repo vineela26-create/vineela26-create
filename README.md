@@ -10,10 +10,11 @@
 
 ---
 ## 🌐 Portfolio
-
+<p align="center">
 <a href="https://agent-6a0bd9408ffa03be2fda4fb--vineela-portfoilo.netlify.app/">
 <center><img src="https://img.shields.io/badge/_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></center>
 </a>
+</p>
 
 ---
 
@@ -116,23 +117,28 @@ AI-powered interview preparation assistant using Google Gemini.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
+
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/srighakolapu-vineela">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/vineela26-create">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://agent-6a0bd9408ffa03be2fda4fb--vineela-portfoilo.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <a href="mailto:srighakolapuvineela@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
 
 ---
 
