@@ -12,7 +12,7 @@
 ## 🌐 Portfolio
 
 <a href="https://agent-6a0bd9408ffa03be2fda4fb--vineela-portfoilo.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 ---
