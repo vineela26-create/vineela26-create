@@ -9,6 +9,15 @@
 🎯 Focused on clean code, problem solving & real-world impact
 
 ---
+## 🌐 Portfolio
+
+<p align="center">
+<a href="https://agent-6a0bd9408ffa03be2fda4fb--vineela-portfoilo.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+</p>
+
+---
 
 # 🚀 Featured Projects
 
@@ -75,20 +84,15 @@ AI-powered interview preparation assistant using Google Gemini.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vineela26-create&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vineela26-create&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=vineela26-create&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineela26-create&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://streak-stats.demolab.com?user=vineela26-create&theme=tokyonight)
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vineela26-create&theme=react-dark&hide_border=true&area=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineela26-create&layout=compact&theme=tokyonight)
+
+---
 
 ---
 
