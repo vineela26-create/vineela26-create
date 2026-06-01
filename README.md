@@ -1,26 +1,31 @@
-<h1 align="center">Hi 👋, I'm Srighakolapu Sri Lakshmi Vineela</h1>
+# Hi 👋, I'm Vineela
 
-<h3 align="center">Aspiring Software Developer | AI Enthusiast | Problem Solver</h3>
+### Aspiring Software Developer | Full Stack Developer | AI Enthusiast
 
-<p align="center">
-  <a href="https://github.com/vineela26-create">
-    <img src="https://komarev.com/ghpvc/?username=vineela26-create&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+🌱 Learning DSA, Web Development & AI
+
+🚀 Building projects and improving every day
+
+🎯 Focused on clean code, problem solving & real-world impact
 
 ---
 
-## 🚀 About Me
+# 🚀 Featured Projects
 
-🎓 B.Tech Information Technology (CGPA: 9.39)
+### 🌟 SkillRise – Rural Talent Job Matching Platform
+React • Node.js • Firebase
 
-💻 Passionate about Full Stack Development & AI
+A platform enabling rural talent discovery through regional-language digital profiles.
 
-🌱 Currently learning Advanced DSA, AI & Cloud Technologies
+### 💰 Digital Chit Fund Management Platform
+React • Node.js • Firebase
 
-🏆 366+ LeetCode Problems Solved
+Role-based web application for transparent chit fund operations.
 
-🏆 74+ GeeksforGeeks Problems Solved
+### 🤖 AI Interview ChatBot
+Python • Flask • Gemini API
+
+AI-powered interview preparation assistant using Google Gemini.
 
 ---
 
@@ -28,123 +33,94 @@
 
 ### 👩‍💻 Languages
 
-![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Frameworks & Libraries
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/EXPRESS.JS-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MONGODB-green?style=for-the-badge&logo=mongodb)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 🧰 Tools & Platforms
+### ⚙️ Backend
 
-![Git](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_CODE-blue?style=for-the-badge&logo=visualstudiocode)
-![Vercel](https://img.shields.io/badge/VERCEL-black?style=for-the-badge&logo=vercel)
-![Firebase](https://img.shields.io/badge/FIREBASE-yellow?style=for-the-badge&logo=firebase)
-![Render](https://img.shields.io/badge/RENDER-430098?style=for-the-badge&logo=render)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-### ☁️ Cloud & Data
+### 🗄️ Database
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
----
+### 🧰 Tools
 
-# 🚀 Featured Projects
-
-### 🌟 SkillRise – Rural Talent Job Matching Platform
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase)
-
-A platform enabling rural talent discovery through regional-language digital profiles.
-
----
-
-### 💰 Digital Chit Fund Management Platform
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
-
-Role-based web application for transparent chit fund operations.
-
----
-
-### 🤖 AI Interview ChatBot
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
-![Gemini](https://img.shields.io/badge/Gemini_AI-blue?style=flat-square)
-
-AI-powered interview preparation assistant using Google Gemini.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vineela26-create&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=vineela26-create&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vineela26-create&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=vineela26-create&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineela26-create&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineela26-create&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏆 Achievements
+# 📈 GitHub Contribution Graph
 
-🏅 Salesforce Agentforce Specialist
+[![Vineela's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vineela26-create&theme=react-dark&hide_border=true&area=true)](https://github.com/vineela26-create)
 
-🏅 Smart India Hackathon Participant
+---
 
-🏅 NPTEL Cybersecurity & Privacy
+# 🏆 Coding Profiles
 
-🏅 Full Stack Web Development Certification
+🔹 LeetCode — 366+ Problems Solved
 
-🏅 366+ LeetCode Problems Solved
-
-🏅 74+ GeeksforGeeks Problems Solved
+🔹 GeeksforGeeks — 74+ Problems Solved
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-
 <a href="https://www.linkedin.com/in/srighakolapu-vineela">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:srighakolapuvineela@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
 <a href="https://github.com/vineela26-create">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://agent-6a0bd9408ffa03be2fda4fb--vineela-portfoilo.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify"/>
 </a>
 
-</p>
+<a href="mailto:srighakolapuvineela@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
 ---
 
-## 💫 Quote
+## 💬 Quote of the Day
 
- ✨Turning ideas into reality through code, one project at a time✨
+> 🌟"Turning ideas into reality through code, one project at a time."🌟
+
 ---
 
-<h3 align="center">❤️ Thank You For Visiting My Profile ❤️</h3>
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=vineela26-create&label=Profile%20Views&color=blue&style=flat)
+
+---
+
+<h2 align="center">⭐ Thanks for Visiting My Profile! ⭐</h2>
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories!
+Let's connect and build something amazing together 🚀
 </p>
