@@ -13,17 +13,29 @@
 # 🚀 Featured Projects
 
 ### 🌟 SkillRise – Rural Talent Job Matching Platform
-React • Node.js • Firebase
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase)
 
 A platform enabling rural talent discovery through regional-language digital profiles.
 
+---
+
 ### 💰 Digital Chit Fund Management Platform
-React • Node.js • Firebase
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
 
 Role-based web application for transparent chit fund operations.
 
+---
+
 ### 🤖 AI Interview ChatBot
-Python • Flask • Gemini API
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![Gemini](https://img.shields.io/badge/Gemini_AI-blue?style=flat-square)
 
 AI-powered interview preparation assistant using Google Gemini.
 
@@ -79,11 +91,19 @@ AI-powered interview preparation assistant using Google Gemini.
 
 ---
 
-# 🏆 Coding Profiles
+# 🏆 Achievements
 
-🔹 LeetCode — 366+ Problems Solved
+🏅 Salesforce Agentforce Specialist
 
-🔹 GeeksforGeeks — 74+ Problems Solved
+🏅 Smart India Hackathon Participant
+
+🏅 NPTEL Cybersecurity & Privacy
+
+🏅 Full Stack Web Development Certification
+
+🏅 366+ LeetCode Problems Solved
+
+🏅 74+ GeeksforGeeks Problems Solved
 
 ---
 
@@ -113,11 +133,6 @@ AI-powered interview preparation assistant using Google Gemini.
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=vineela26-create&label=Profile%20Views&color=blue&style=flat)
-
----
 
 <h2 align="center">⭐ Thanks for Visiting My Profile! ⭐</h2>
 
