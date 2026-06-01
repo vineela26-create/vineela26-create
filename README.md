@@ -1,6 +1,10 @@
-# Hi 👋, I'm Vineela
-
+<h1 align="center">Hi 👋, I'm Vineela</h1>
 ### Aspiring Software Developer | Full Stack Developer | AI Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Full+Stack+Developer;AI+Enthusiast" />
+</p>
+
+## 🚀 About Me
 
 🌱 Learning DSA, Web Development & AI
 
@@ -11,9 +15,9 @@
 ---
 ## 🌐 Portfolio
 <p align="center">
-<a href="https://agent-6a0bd9408ffa03be2fda4fb--vineela-portfoilo.netlify.app/">
-<center><img src="https://img.shields.io/badge/_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></center>
-</a>
+  <a href="https://agent-6a0bd9408ffa03be2fda4fb--vineela-portfoilo.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -144,7 +148,7 @@ AI-powered interview preparation assistant using Google Gemini.
 
 ## 💬 Quote of the Day
 
-> 🌟"Turning ideas into reality through code, one project at a time."🌟
+<h3 align="center"> 🌟"Turning ideas into reality through code, one project at a time."🌟</h3>
 
 ---
 
