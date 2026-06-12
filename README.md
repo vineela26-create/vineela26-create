@@ -40,6 +40,7 @@ A platform enabling rural talent discovery through regional-language digital pro
 ### 🚌 Smart Bus Attendance Management System
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![Node](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase)
 
