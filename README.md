@@ -6,9 +6,13 @@
 
 ## 🚀 About Me
 
-🌱 Learning DSA, Web Development & AI
+🌱 Learning DSA, Web Development & Software Development
 
 🚀 Building projects and improving every day
+
+
+🤖 Exploring AI, Automation, and Intelligent Systems
+
 
 🎯 Focused on clean code, problem solving & real-world impact
 
