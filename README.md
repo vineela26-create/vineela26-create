@@ -117,8 +117,9 @@ AI-powered document assistant built using RAG, FAISS, and LLMs for intelligent d
 
 ---
 ## 👀 Profile Views
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=vineela26-create&color=blue&style=for-the-badge)
+</p>
 
 ---
 
