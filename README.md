@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vineela</h1>
  <h4 align="center">Aspiring Software Developer | Full Stack Developer | AI Enthusiast</h4>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Full+Stack+Developer;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;Generative+AI+Explorer" />
 </p>
 
 ## 🚀 About Me
