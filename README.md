@@ -116,6 +116,9 @@ AI-powered document assistant built using RAG, FAISS, and LLMs for intelligent d
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineela26-create&layout=compact&theme=tokyonight)
 
 ---
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=vineela26-create&color=blue&style=for-the-badge)
 
 ---
 
