@@ -5,16 +5,15 @@
 </p>
 
 ## 🚀 About Me
+🌱 Learning Data Structures & Algorithms, Web Development, and Software Engineering
 
-🌱 Learning DSA, Web Development & Software Development
+🚀 Building scalable projects and continuously improving technical skills
 
-🚀 Building projects and improving every day
+🤖 Exploring Generative AI, Automation, and Intelligent Systems
 
+💡 Passionate about solving real-world problems through innovative technology
 
-🤖 Exploring AI, Automation, and Intelligent Systems
-
-
-🎯 Focused on clean code, problem solving & real-world impact
+🎯 Focused on clean code, efficient solutions, and impactful user experiences
 
 ---
 ## 🌐 Portfolio
