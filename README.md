@@ -16,12 +16,7 @@
 🎯 Focused on clean code, efficient solutions, and impactful user experiences
 
 ---
-## 🌐 Portfolio
-<p align="center">
-  <a href="https://vineela-portfoilo.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 
