@@ -18,7 +18,7 @@
 ---
 
 
----
+
 
 # 🚀 Featured Projects
 
@@ -165,14 +165,10 @@ AI-powered document assistant built using RAG, FAISS, and LLMs for intelligent d
 
 ---
 
-## 💬 Quote of the Day
-
-<h3 align="center"> 🌟"Turning ideas into reality through code, one project at a time."🌟</h3>
-
----
 
 
-<h2 align="center">⭐ Thanks for Visiting My Profile! ⭐</h2>
+
+<h2 align="center"> Thanks for Visiting My Profile! </h2>
 
 <p align="center">
 Let's connect and build something amazing together 🚀
