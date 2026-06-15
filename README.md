@@ -104,12 +104,19 @@ AI-powered document assistant built using RAG, FAISS, and LLMs for intelligent d
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vineela26-create&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![](https://streak-stats.demolab.com?user=vineela26-create&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=vineela26-create&show_icons=true&theme=tokyonight" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineela26-create&layout=compact&theme=tokyonight)
+<br><br>
 
+<img src="https://streak-stats.demolab.com?user=vineela26-create&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineela26-create&layout=compact&theme=tokyonight" />
+
+</div>
 ---
 ## 👀 Profile Views
 <p align="center">
